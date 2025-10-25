@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31407.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E9A1E3F0-5F1A-4F4C-8B11-307C6B82D79B}") = "StudentManagementApp", "StudentManagementApp\StudentManagementApp.csproj", "{D67E0140-07A5-4E1C-9269-1FBF607F3440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67E0140-07A5-4E1C-9269-1FBF607F3440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E0140-07A5-4E1C-9269-1FBF607F3440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E0140-07A5-4E1C-9269-1FBF607F3440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E0140-07A5-4E1C-9269-1FBF607F3440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
